@@ -26,7 +26,7 @@ Now the careful version.
 
 A **gradient** is a *directional fact about the landscape*. It tells you, locally, “if you move *this* way in parameter space, the loss goes down fastest.” It is epistemic and instantaneous. It vanishes the moment you step. In your language, it lives closer to **(z)**: information about slope, not substance.
 
-A **weight (parameter)** is a *state of the system*. It is ontological. It persists, accumulates history, and carries memory of all previous descents. In your notation, it’s part of **(x)** (state), not **(\frac{dy}{dx})** (direction).
+A **weight (parameter)** is a *state of the system*. It is ontological. It persists, accumulates history, and carries memory of all previous descents. In your notation, it’s part of **$x$** (state), not **$\frac{dy}{dx}$** (direction).
 
 So the relation is:
 
