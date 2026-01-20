@@ -3,7 +3,7 @@
 <script>
   window.MathJax = {
     tex: {
-      inlineMath: [['$', '$'], ['\$', '\$']],
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$','$$'], ['\\[','\\]']],
       processEscapes: true
     },
@@ -34,6 +34,7 @@ So the relation is:
 * Weight = **where the raindrop actually is**
 
 Or, in SGD terms:
+
 $$
 \theta_{t+1} = \theta_t - \eta \nabla L(\theta_t)
 $$
