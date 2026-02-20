@@ -16,6 +16,47 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+<div style="display: flex; gap: 16px; max-width: 75%;">
+
+  <!-- Video 1 Preacher -->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/CdCvUR7TmYE"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+  <!-- Video 2 Google -->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/hcE0NPYlo1w"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+  <!-- Video 3 — Preacher-->
+  <div style="flex: 1; position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/SykriEPFOeo"
+      title="Bernstein – Harvard Lecture 1"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+</div>
+
+
 # [00-0](https://ukb-dt.github.io/journaling-09/)
 Short answer first, then we can let it sprawl a little like a river delta.
 
